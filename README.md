@@ -1,3 +1,3 @@
 # audio-stitch
-Multi-Functional JavaScript Audio Library:wq
+Multi-Functional JavaScript Audio Library
 
